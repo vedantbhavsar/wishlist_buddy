@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "699071466728",
+    "firebase_url": "https://wishlist-buddy-61a18-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "wishlist-buddy-61a18",
+    "storage_bucket": "wishlist-buddy-61a18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699071466728:android:bb43352a2154f7ec680d5d",
+        "android_client_info": {
+          "package_name": "com.vedantbhavsar1997.wishlist.buddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWhd7dCe1xF-K6GU6UWQ5P1uqa08FFLz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
